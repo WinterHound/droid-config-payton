@@ -6,7 +6,7 @@
 
 %define vendor_pretty Motorola
 %define device_pretty Moto X4
-%define droid_target_armv7hl armv7hl
+%define droid_target_aarch64 1
 
 # Community HW adaptations need this
 %define community_adaptation 1
